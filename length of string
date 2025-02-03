@@ -8,4 +8,7 @@ int main() {
     printf("%lu", strlen(s));
   
     return 0;
+
 }
+ print "hello wolrd"
+
