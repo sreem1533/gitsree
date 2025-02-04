@@ -11,4 +11,6 @@ int main() {
 
 }
  print "hello wolrd"
-
+ a = 10
+ b = 20
+ print(a - b)
